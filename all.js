@@ -1,4 +1,8 @@
-// Select elements by attribute
+// # `all.js`
+// This file is a collection of snippets that I want as a reference without having to google them again
+
+
+// #### Select elements by attribute
 // Source: http://codereview.stackexchange.com/questions/14061/javascript-function-to-get-dom-elements-by-any-attribute
 
 function getElements(attrib) {
@@ -7,7 +11,7 @@ function getElements(attrib) {
 
 var elementsByAttribute = getElements('required');
 
-// Toggle Class
+// #### Toggle Class
 // Source: http://youmightnotneedjquery.com
 
 function toggleClass() {
