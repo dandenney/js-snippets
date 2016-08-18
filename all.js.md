@@ -11,6 +11,7 @@ var elementsByAttribute = getElements('required');
 ```
 Toggle Class
 Source: http://youmightnotneedjquery.com
+This had a lightbulb moment for me as I was doing a weird combo if classList.add() and classList.remove().
 
 ```js
 function toggleClass() {
@@ -34,4 +35,3 @@ function toggleClass() {
 ```
 ------------------------
 Generated _Thu Aug 18 2016 14:14:30 GMT-0400 (EDT)_ from [&#x24C8; all.js](all.js "View in source")
-
